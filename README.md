@@ -3,7 +3,7 @@ This is my repo for the STATS220 Data Technologies course.
 
 STATS220 focuses on the use of [R](https://www.r-project.org/) and [R Studio](https://posit.co/download/rstudio-desktop/) to become familiar with and carry out various data processes. I've created this repo as required to complete my first project and I plan on adding my future work throughout the semester. 
 
-### Information on this course   
+### Information on this course:  
 **Modules:** 
 * Creating HTML by combining modern technologies
 * Creating web-based dynamic reporting systems
